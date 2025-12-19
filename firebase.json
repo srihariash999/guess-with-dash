@@ -1,0 +1,14 @@
+{
+    "flutter": {
+        "platforms": {
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "guesswithdash",
+                    "configurations": {
+                        "web": "1:1058425765796:web:e9603e1eca81123651cb31"
+                    }
+                }
+            }
+        }
+    }
+}
